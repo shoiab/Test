@@ -1,0 +1,11 @@
+create employee_db;
+
+use employee_db;
+
+CREATE TABLE employee (id int NOT NULL AUTO_INCREMENT, first_name VARCHAR(20), last_name VARCHAR(20),email VARCHAR(20), phone VARCHAR(20),PRIMARY KEY (id));
+
+INSERT INTO employee VALUES (null,'Shoiab','Khan','shoiabkhan@gmail.com','1234567890');
+
+
+
+https://www.getpostman.com/collections/9dfc792ce6c6f58af828
