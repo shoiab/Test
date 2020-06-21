@@ -6,6 +6,4 @@ CREATE TABLE employee (id int NOT NULL AUTO_INCREMENT, first_name VARCHAR(20), l
 
 INSERT INTO employee VALUES (null,'Shoiab','Khan','shoiabkhan@gmail.com','1234567890');
 
-
-
 https://www.getpostman.com/collections/9dfc792ce6c6f58af828
